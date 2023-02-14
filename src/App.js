@@ -5,6 +5,7 @@ import Hero from "./pages/Hero";
 import About from "./pages/About";
 import Content from "./pages/Content";
 import Galery from "./pages/Galery";
+import Letter from "./pages/Letter";
 function App() {
   return (
     <div className="App">
@@ -12,6 +13,7 @@ function App() {
       <About/>
       <Content/>
       <Galery/>
+      <Letter/>
     </div>
   );
 }

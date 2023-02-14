@@ -68,7 +68,7 @@ export const content = [
       "It's Only Me - Kaleb",
       "Sanctuary - Joji",
       "Favorite Girl - Justin Bieber",
-      "Pretender" - "Hige Dandism",
+      "Pretender - Hige Dandism",
     ],
   },
 ];
