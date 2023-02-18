@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valentine-gift/static/css/main.9247bf5c.css",
-    "main.js": "/valentine-gift/static/js/main.a8cade23.js",
+    "main.js": "/valentine-gift/static/js/main.0d71eec2.js",
     "static/js/787.b5daa3be.chunk.js": "/valentine-gift/static/js/787.b5daa3be.chunk.js",
     "static/media/24.JPG": "/valentine-gift/static/media/24.9a4a92188a93ed383f63.JPG",
     "static/media/hero.png": "/valentine-gift/static/media/hero.d467ba9005ee699a4389.png",
@@ -16,9 +16,9 @@
     "static/media/feel_1.JPG": "/valentine-gift/static/media/feel_1.2341bc4152c16a103bae.JPG",
     "static/media/15.JPG": "/valentine-gift/static/media/15.feba203a8e3e37ab11ff.JPG",
     "static/media/23.JPG": "/valentine-gift/static/media/23.283b777a85dc9446794f.JPG",
-    "static/media/20.JPG": "/valentine-gift/static/media/20.01dbb69609b88d15f2d2.JPG",
     "static/media/21.JPG": "/valentine-gift/static/media/21.b0c62608d30f4fabb78f.JPG",
     "static/media/13.JPG": "/valentine-gift/static/media/13.f58f860603652e7b35d8.JPG",
+    "static/media/20.JPG": "/valentine-gift/static/media/20.ef5c084987e6e75393a2.JPG",
     "static/media/10.JPG": "/valentine-gift/static/media/10.463bb5a026431a221f44.JPG",
     "static/media/14.JPG": "/valentine-gift/static/media/14.7d22879905fd474a0cea.JPG",
     "static/media/30.jpg": "/valentine-gift/static/media/30.d086b65e8e5078e3d4bd.jpg",
@@ -37,11 +37,11 @@
     "static/media/logo.svg": "/valentine-gift/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/valentine-gift/index.html",
     "main.9247bf5c.css.map": "/valentine-gift/static/css/main.9247bf5c.css.map",
-    "main.a8cade23.js.map": "/valentine-gift/static/js/main.a8cade23.js.map",
+    "main.0d71eec2.js.map": "/valentine-gift/static/js/main.0d71eec2.js.map",
     "787.b5daa3be.chunk.js.map": "/valentine-gift/static/js/787.b5daa3be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9247bf5c.css",
-    "static/js/main.a8cade23.js"
+    "static/js/main.0d71eec2.js"
   ]
 }
